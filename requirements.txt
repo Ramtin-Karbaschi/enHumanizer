@@ -1,0 +1,8 @@
+python-telegram-bot==20.8
+python-dotenv==1.0.1
+google-generativeai==0.3.2
+requests==2.31.0
+aiohttp==3.9.3
+nltk==3.8.1
+regex==2023.10.3
+random2==1.0.1
